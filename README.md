@@ -1,2 +1,2 @@
 # pricing-table
-A simple example of a pricing table using HTML and CSS.
+The Flexbox Pricing Table is an example showcasing a modern pricing table solution, created using flexbox, for displaying pricing information in a stylish and user-friendly manner.
